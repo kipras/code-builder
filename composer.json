@@ -1,0 +1,14 @@
+{
+    "name": "kipras/code-builder",
+    "description": "PHP library for code generation",
+    "homepage": "http://github.com/kipras/code-builder",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.0"
+    },
+    "require-dev": {
+        "simpletest/simpletest": "~1.1",
+        "phpspec/php-diff": "~1.0",
+        "kipras/array-diff-html": "~1.3"
+    }
+}
